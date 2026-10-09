@@ -1,2 +1,2 @@
 
-  return function (a, b) {
+    this.score = score;
